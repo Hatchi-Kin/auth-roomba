@@ -6,10 +6,9 @@
 <div class="container">
     <article>
         <div class="grid">
-            <h2>Hello {{ current_user.username }}!</h2>
-            <a href="{{url_for('logout')}}">
-                <h4>click here to logout</h4>
-            </a>
+            <h3>Hello {{ current_user.username }}!</h3>
+            <div class="logout-button">
+            <a href="{{url_for('logout')}}" role="button" class="secondary outline">logout</a></div>
         </div>
 
         <form method="POST" action="">
@@ -24,9 +23,10 @@
 </div>
 
 <div class="grid">
+
     {% for weekday in ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi'] %}
     <article>
-        <h2>{{ weekday }}</h2>
+        <h3>{{ weekday }}</h3>
         {% for event in events_by_weekday[weekday] %}
         <table>
             <thead>
@@ -52,4 +52,6 @@
     </article>
     {% endfor %}
 </div>
+
+
 {% endblock %}
