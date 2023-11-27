@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<div class="container">
+    <article>
+        <div class="grid">
+            <h2>Hello {{ current_user.username }}!</h2>
+            <a href="{{url_for('logout')}}">
+                <h4>click here to logout</h4>
+            </a>
+        </div>
+
+        <form method="POST" action="">
+            <small>submit the url to your ics.</small>
+            <input type="text" id="ics_url" name="ics_url" placeholder="ics_url" value="{{ current_user.ics_url }}"
+                required>
+
+            <button type="submit">Set dashboard to my ics url</button>
+        </form>
+
+    </article>
+</div>
+
+<div class="grid">
+    {% for weekday in ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi'] %}
+    <article>
+        <h2>{{ weekday }}</h2>
+        {% for event in events_by_weekday[weekday] %}
+        <table>
+            <thead>
+                <th scope="col" class="{{ 'modified_event' if event['modified'] }}"><strong>{{ event['start'] }} - {{
+                        event['end'] }}</strong></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="{{ 'modified_event' if event['modified'] }}">{{ event['event_name'] }}</td>
+                </tr>
+                <tr>
+                    <td class="{{ 'modified_event' if event['modified'] }}">{{ event['salle'] }}</td>
+                </tr>
+                <tr>
+                    <td class="{{ 'modified_event' if event['modified'] }}">{{ event['description'] }}</td>
+                </tr>
+                <tr>
+                    <td class="{{ 'modified_event' if event['modified'] }}">{{ event['intervenant'] }}</td>
+                </tr>
+            </tbody>
+            {% endfor %}
+        </table>
+    </article>
+    {% endfor %}
+</div>
+{% endblock %}

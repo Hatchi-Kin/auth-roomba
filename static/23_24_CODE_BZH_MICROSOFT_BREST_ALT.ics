@@ -1,0 +1,1018 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+DTSTART:20231113T090000
+DTEND:20231113T130000
+DTSTAMP:20231113T130000
+UID:11809620
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Antoine LE GUERN\n
+ - Description : AWS\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231113T140000
+DTEND:20231113T170000
+DTSTAMP:20231113T170000
+UID:11809700
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Antoine LE GUERN\n
+ - Description : AWS\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231114T090000
+DTEND:20231114T130000
+DTSTAMP:20231114T130000
+UID:11809640
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Antoine LE GUERN\n
+ - Description : AWS\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231114T140000
+DTEND:20231114T170000
+DTSTAMP:20231114T170000
+UID:11809726
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Antoine LE GUERN\n
+ - Description : AWS\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231115T090000
+DTEND:20231115T130000
+DTSTAMP:20231115T130000
+UID:11809856
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Mohammed El Amine BECHAR\n
+ - Description : \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231115T140000
+DTEND:20231115T170000
+DTSTAMP:20231115T170000
+UID:11798271
+SEQUENCE:784
+LOCATION:S246\n
+SUMMARY:Informatique\n
+DESCRIPTION:
+ - Matière : Informatique\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Agnieszka GASTON\n
+ - Description : Anglais\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231116T090000
+DTEND:20231116T130000
+DTSTAMP:20231116T130000
+UID:11809358
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Mohammed El Amine BECHAR\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231116T140000
+DTEND:20231116T170000
+DTSTAMP:20231116T170000
+UID:11809449
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Mohammed El Amine BECHAR\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231117T090000
+DTEND:20231117T130000
+DTSTAMP:20231117T130000
+UID:11809378
+SEQUENCE:784
+LOCATION:S210\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Océan Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231117T140000
+DTEND:20231117T170000
+DTSTAMP:20231117T170000
+UID:11809469
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Ocean Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231120T090000
+DTEND:20231120T130000
+DTSTAMP:20231120T130000
+UID:11809398
+SEQUENCE:784
+LOCATION:S245\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Océan Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231120T140000
+DTEND:20231120T170000
+DTSTAMP:20231120T170000
+UID:11809498
+SEQUENCE:784
+LOCATION:S245\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Océan Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231121T090000
+DTEND:20231121T130000
+DTSTAMP:20231121T130000
+UID:11811360
+SEQUENCE:784
+LOCATION:S245\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Océan Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231121T140000
+DTEND:20231121T170000
+DTSTAMP:20231121T170000
+UID:11812518
+SEQUENCE:784
+LOCATION:S245\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Océan Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231122T090000
+DTEND:20231122T130000
+DTSTAMP:20231122T130000
+UID:11812458
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Mohammed El Amine BECHAR\n
+ - Description : ML FLow\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231122T140000
+DTEND:20231122T170000
+DTSTAMP:20231122T170000
+UID:11812542
+SEQUENCE:784
+LOCATION:S246\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Agnieszka GASTON\n
+ - Description : Anglais\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231123T090000
+DTEND:20231123T130000
+DTSTAMP:20231123T130000
+UID:11812478
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Data Viz\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231123T140000
+DTEND:20231123T170000
+DTSTAMP:20231123T170000
+UID:11812562
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Data Viz\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231124T090000
+DTEND:20231124T130000
+DTSTAMP:20231124T130000
+UID:11812498
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Data Viz\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231124T140000
+DTEND:20231124T170000
+DTSTAMP:20231124T170000
+UID:11812582
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Data Viz\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231127T090000
+DTEND:20231127T130000
+DTSTAMP:20231127T130000
+UID:11815471
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Data Viz\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231127T140000
+DTEND:20231127T170000
+DTSTAMP:20231127T170000
+UID:11815491
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Data Viz\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231128T090000
+DTEND:20231128T130000
+DTSTAMP:20231128T130000
+UID:11815515
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231128T140000
+DTEND:20231128T170000
+DTSTAMP:20231128T170000
+UID:11815535
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231129T090000
+DTEND:20231129T130000
+DTSTAMP:20231129T130000
+UID:11815557
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231129T140000
+DTEND:20231129T170000
+DTSTAMP:20231129T170000
+UID:11822576
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231130T090000
+DTEND:20231130T130000
+DTSTAMP:20231130T130000
+UID:12084310
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231130T140000
+DTEND:20231130T170000
+DTSTAMP:20231130T170000
+UID:12084352
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231201T090000
+DTEND:20231201T130000
+DTSTAMP:20231201T130000
+UID:12084330
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231201T140000
+DTEND:20231201T170000
+DTSTAMP:20231201T170000
+UID:12084372
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Thomas WENTZ\n
+ - Description : NLP\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231204T090000
+DTEND:20231204T130000
+DTSTAMP:20231204T130000
+UID:11822809
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231204T140000
+DTEND:20231204T170000
+DTSTAMP:20231204T170000
+UID:11823109
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231205T090000
+DTEND:20231205T130000
+DTSTAMP:20231205T130000
+UID:11822969
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231205T140000
+DTEND:20231205T170000
+DTSTAMP:20231205T170000
+UID:11823430
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231206T090000
+DTEND:20231206T130000
+DTSTAMP:20231206T130000
+UID:11822989
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231206T140000
+DTEND:20231206T170000
+DTSTAMP:20231206T170000
+UID:11823450
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231207T090000
+DTEND:20231207T130000
+DTSTAMP:20231207T130000
+UID:11823009
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231207T140000
+DTEND:20231207T170000
+DTSTAMP:20231207T170000
+UID:11823470
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231208T090000
+DTEND:20231208T130000
+DTSTAMP:20231208T130000
+UID:11823029
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231208T140000
+DTEND:20231208T170000
+DTSTAMP:20231208T170000
+UID:11823490
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231211T090000
+DTEND:20231211T130000
+DTSTAMP:20231211T130000
+UID:11823049
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231211T140000
+DTEND:20231211T170000
+DTSTAMP:20231211T170000
+UID:11823510
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231212T090000
+DTEND:20231212T130000
+DTSTAMP:20231212T130000
+UID:11823069
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231212T140000
+DTEND:20231212T170000
+DTSTAMP:20231212T170000
+UID:11823530
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231213T090000
+DTEND:20231213T130000
+DTSTAMP:20231213T130000
+UID:11823089
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231213T140000
+DTEND:20231213T170000
+DTSTAMP:20231213T170000
+UID:11823550
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231214T090000
+DTEND:20231214T130000
+DTSTAMP:20231214T130000
+UID:12687159
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231214T140000
+DTEND:20231214T170000
+DTSTAMP:20231214T170000
+UID:12687218
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231215T090000
+DTEND:20231215T130000
+DTSTAMP:20231215T130000
+UID:12687189
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231215T140000
+DTEND:20231215T170000
+DTSTAMP:20231215T170000
+UID:12687251
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Conférence-tutorat INTERVENANT EXT BREST / Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231218T090000
+DTEND:20231218T130000
+DTSTAMP:20231218T130000
+UID:12687280
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231218T140000
+DTEND:20231218T170000
+DTSTAMP:20231218T170000
+UID:12687309
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231219T090000
+DTEND:20231219T130000
+DTSTAMP:20231219T130000
+UID:12687514
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231219T140000
+DTEND:20231219T170000
+DTSTAMP:20231219T170000
+UID:12687668
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231220T090000
+DTEND:20231220T130000
+DTSTAMP:20231220T130000
+UID:12687533
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231220T140000
+DTEND:20231220T170000
+DTSTAMP:20231220T170000
+UID:12687687
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231221T090000
+DTEND:20231221T130000
+DTSTAMP:20231221T130000
+UID:12687552
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231221T140000
+DTEND:20231221T170000
+DTSTAMP:20231221T170000
+UID:12687706
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231222T090000
+DTEND:20231222T130000
+DTSTAMP:20231222T130000
+UID:12687571
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231222T140000
+DTEND:20231222T170000
+DTSTAMP:20231222T170000
+UID:12687725
+SEQUENCE:784
+LOCATION:S340\n
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Hackathon\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231226T090000
+DTEND:20231226T130000
+DTSTAMP:20231226T130000
+UID:13036789
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Mikaël CABON\n
+ - Description : RGPD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231226T140000
+DTEND:20231226T170000
+DTSTAMP:20231226T170000
+UID:13036816
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Mikaël CABON\n
+ - Description : RGPD\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231227T090000
+DTEND:20231227T130000
+DTSTAMP:20231227T130000
+UID:13036647
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231227T140000
+DTEND:20231227T170000
+DTSTAMP:20231227T170000
+UID:13036669
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231228T090000
+DTEND:20231228T130000
+DTSTAMP:20231228T130000
+UID:13036690
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231228T140000
+DTEND:20231228T170000
+DTSTAMP:20231228T170000
+UID:13036747
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231229T090000
+DTEND:20231229T130000
+DTSTAMP:20231229T130000
+UID:13036711
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance \n
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231229T140000
+DTEND:20231229T170000
+DTSTAMP:20231229T170000
+UID:13036768
+SEQUENCE:784
+SUMMARY:Intelligence Artificielle\n
+DESCRIPTION:
+ - Matière : Intelligence Artificielle\n
+ - Cours : \n
+ - Activité : COURS\n
+ - Intervenant(s) : Stéphane JAMIN-NORMAND\n
+ - Description : Alternance\n
+END:VEVENT
+END:VCALENDAR

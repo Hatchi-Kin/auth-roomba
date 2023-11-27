@@ -1,0 +1,102 @@
+{
+    "Lundi": [
+        {
+            "modified": false,
+            "start": "09:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "St\u00e9phane JAMIN-NORMAND",
+            "description": "Data Viz",
+            "salle": "S340\n",
+            "end": "13:00"
+        },
+        {
+            "modified": false,
+            "start": "14:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "St\u00e9phane JAMIN-NORMAND",
+            "description": "Data Viz",
+            "salle": "S340\n",
+            "end": "17:00"
+        }
+    ],
+    "Mardi": [
+        {
+            "modified": false,
+            "start": "14:00",
+            "event_name": "Catastrophe naturell",
+            "intervenant": "Meteorite",
+            "description": "12megaton",
+            "salle": "S340\n",
+            "end": "17:00"
+        },
+        {
+            "modified": false,
+            "start": "09:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "13:00"
+        }
+    ],
+    "Mercredi": [
+        {
+            "modified": false,
+            "start": "09:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "13:00"
+        },
+        {
+            "modified": false,
+            "start": "14:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "17:00"
+        }
+    ],
+    "Jeudi": [
+        {
+            "modified": false,
+            "start": "14:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "17:00"
+        },
+        {
+            "modified": false,
+            "start": "09:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "13:00"
+        }
+    ],
+    "Vendredi": [
+        {
+            "modified": false,
+            "start": "09:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "13:00"
+        },
+        {
+            "modified": false,
+            "start": "14:00",
+            "event_name": "Intelligence Artificielle\n",
+            "intervenant": "Thomas WENTZ",
+            "description": "NLP",
+            "salle": "S340\n",
+            "end": "17:00"
+        }
+    ]
+}
