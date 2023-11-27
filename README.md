@@ -1,3 +1,6 @@
+## auth-roomba
+
+Cette web app Flask, permet à un utilisateur, une fois connecté, de créer un "checkpoint" en entrant l'URL d'un calendrier ICS. L'application peut ensuite afficher le contenu du calendrier et alerter des événements qui ont été ajoutés ou modifiés depuis le dernier checkpoint.
 
 ## Setup
 
