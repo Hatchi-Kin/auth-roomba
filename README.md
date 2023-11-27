@@ -1,8 +1,8 @@
-## Auth-Roomba  :robot:
+## :robot: Auth-Roomba  
 
 Cette web app Flask, permet à un utilisateur, une fois connecté, de créer un "checkpoint" en entrant l'URL d'un calendrier ICS. L'application peut ensuite afficher le contenu du calendrier et alerter des événements qui ont été ajoutés ou modifiés depuis le dernier checkpoint.
 
-## Setup   :building_construction:
+## :building_construction: Setup   
 
 Dans un environment virtuel:
 
@@ -44,7 +44,7 @@ docker compose-up -d
 ```
 
 
-## Usage  :calendar:
+## :calendar: Usage  
 
 Pour utiliser l'app:
 
@@ -54,7 +54,7 @@ Pour utiliser l'app:
  - L'app peut maintenant afficher le contenu du calendrier ics. Les événements qui diffèrent du checkpoint seront affichés en rouge.
 
 
-## Structure  :deciduous_tree:
+## :deciduous_tree: Structure  
 
 ```bash
 .
