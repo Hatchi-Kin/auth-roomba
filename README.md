@@ -38,16 +38,15 @@ Pour utiliser l'app:
 │   app.py                            # Le script Python principal de l'application.
 │   docker-compose.yml                # Pour deployer dans un contenaeur -> docker-compose up -d
 │   Dockerfile
-│   README.md                         # vous êtes ici !
+│   README.md                         # Vous êtes ici !
 │   requirements.txt
 │
 ├───instance
-│       database.db                   # db sqlite pour authentification et checkpoint
+│       database.db                   # BDD SQLite pour authentification et checkpoint
 │
 ├───static
 │       23_24_CODE_BZH_MICROSOFT_BREST_ALT.ics   # exemple de .ics
-│       github.png
-│       pico.css
+│       pico.css                      # Mini framework css pour le moins de front possible !
 │       Screenshot-TEMPLATE.png
 │
 ├───templates
