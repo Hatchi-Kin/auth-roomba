@@ -83,7 +83,7 @@ Pour utiliser l'app:
         forms.py                      # .py contenant les classes pour les formulaires
         models.py                     # .py contenant les classes pour l'authentification
         routes.py                     # .py contenant toutes les routes de l'app
-        utils.py                      # .py contenant toutes les fontions utiles à l'app
+        utils.py                      # .py contenant toutes les fonctions utiles à l'app
 ```
 
 ## :pager: Roomba perso ! 
