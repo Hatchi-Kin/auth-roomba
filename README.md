@@ -27,7 +27,8 @@ python app.py
 Pour utiliser l'app:
 
  - Se créer un compte et se log in.
- - Créer un 'checkpoint' en entrant l'url de l'ics qui vous concerne (example: https://web.isen-ouest.fr/*************.ics )
+ - Créer un 'checkpoint' en entrant l'url de l'ics qui vous concerne <br>
+ (example: https://web.isen-ouest.fr/*************.ics )
  - L'app peut maintenant afficher le contenu du calendrier ics. Les événements qui diffèrent du checkpoint seront affichés en rouge.
 
 
