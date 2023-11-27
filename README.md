@@ -86,6 +86,5 @@ Pour utiliser l'app:
         utils.py                      # .py contenant toutes les fontions utiles à l'app
 ```
 
-## Roomba perso ! :space_invader:
-
+## :pager: Roomba perso ! 
 ![Image](https://raw.githubusercontent.com/Hatchi-Kin/auth-roomba/main/static/Screenshot-TEMPLATE.png)
