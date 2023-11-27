@@ -1,8 +1,10 @@
-## auth-roomba
+## Auth-Roomba  :robot:
 
 Cette web app Flask, permet à un utilisateur, une fois connecté, de créer un "checkpoint" en entrant l'URL d'un calendrier ICS. L'application peut ensuite afficher le contenu du calendrier et alerter des événements qui ont été ajoutés ou modifiés depuis le dernier checkpoint.
 
-## Setup
+## Setup   :building_construction:
+
+Dans un environment virtuel:
 
 ```bash
 # Clone the repository
@@ -25,7 +27,24 @@ python app.py
 
 ```
 
-## Usage
+Dans un container Docker:
+
+```bash
+# Clone the repository
+git clone https://github.com/Hatchi-Kin/auth-roomba.git
+
+# Navigate into the project directory
+cd auth-roomba
+
+# Build and run the the container in the background
+docker compose-up -d
+
+# Then go to localhost:5001
+
+```
+
+
+## Usage  :calendar:
 
 Pour utiliser l'app:
 
@@ -35,7 +54,7 @@ Pour utiliser l'app:
  - L'app peut maintenant afficher le contenu du calendrier ics. Les événements qui diffèrent du checkpoint seront affichés en rouge.
 
 
-## Structure
+## Structure  :deciduous_tree:
 
 ```bash
 .
@@ -67,6 +86,6 @@ Pour utiliser l'app:
         utils.py                      # .py contenant toutes les fontions utiles à l'app
 ```
 
-## Roomba perso !
+## Roomba perso ! :space_invader:
 
 ![Image](https://raw.githubusercontent.com/Hatchi-Kin/auth-roomba/main/static/Screenshot-TEMPLATE.png)
