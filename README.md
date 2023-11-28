@@ -90,7 +90,3 @@ Pour utiliser l'app:
 
 ![Image](https://raw.githubusercontent.com/Hatchi-Kin/auth-roomba/main/static/Screenshot-TEMPLATE.png)
 
-<details>
-  <summary>L'application compare le calendrier 'live' avec le dernier checkpoint et affiche les differences entre les deux en rouge !</summary>
-![Image](https://raw.githubusercontent.com/Hatchi-Kin/auth-roomba/main/static/Screenshot-TEMPLATE.png)
-</details>
