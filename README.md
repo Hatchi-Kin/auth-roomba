@@ -86,7 +86,9 @@ Pour utiliser l'app:
         utils.py                      # .py contenant toutes les fonctions utiles à l'app
 ```
 
-## Roomba perso ! :space_invader:
+## :space_invader: Roomba perso ! 
+
+A gauche, le calendrier affiché après la création d'un checkpoint. Et à droite, le calendrier affiché avec les modifications qui ont été faites aux .ics depuis le dernier checkpoint.
 
 ![Image](https://raw.githubusercontent.com/Hatchi-Kin/auth-roomba/main/static/Screenshot-TEMPLATE.png)
 
